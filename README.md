@@ -1,2 +1,2 @@
-# Udder
-This is the app for me to learn about Github.
+# Udder from Udemy
+This is the app for me to learn about Github. Dr.Angela Yu from Udemy was teaching us how to us the github. This app was build on Xcode and push romote roposity to github. There is nothing speacial in this app. It is only show the viewController that contained imageView, textLable. However, the lesson on Udemy is very helpful. We learn about brach, commit, pull, fork, work directory, local repostiy and remote repostiy. I always go back on this lesson to remind me how to use visual control.
